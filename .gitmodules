@@ -1,21 +1,27 @@
 [submodule "meta-agl"]
 	path = meta-agl
 	url = https://github.com/MontaVista-OpenSourceTechnology/meta-agl
+    branch = next
 [submodule "meta-agl-cluster-demo"]
 	path = meta-agl-cluster-demo
 	url = https://github.com/MontaVista-OpenSourceTechnology/meta-agl-cluster-demo
+    branch = next
 [submodule "meta-agl-demo"]
 	path = meta-agl-demo
 	url = https://github.com/MontaVista-OpenSourceTechnology/meta-agl-demo
+    branch = next
 [submodule "meta-agl-devel"]
 	path = meta-agl-devel
-	url = https://github.com/MontaVista-OpenSourceTechnology/meta-agl-devel
+  	url = https://github.com/MontaVista-OpenSourceTechnology/meta-agl-devel
+    branch = next
 [submodule "meta-agl-extra"]
 	path = meta-agl-extra
 	url = https://github.com/MontaVista-OpenSourceTechnology/meta-agl-extra
+    branch = next
 [submodule "meta-agl-telematics-demo"]
 	path = meta-agl-telematics-demo
 	url = https://github.com/MontaVista-OpenSourceTechnology/meta-agl-telematics-demo
+    branch = next
 [submodule "external/poky"]
 	path = external/poky
 	url = https://github.com/MontaVista-OpenSourceTechnology/poky
