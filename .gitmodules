@@ -1,0 +1,105 @@
+[submodule "meta-agl"]
+	path = meta-agl
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-agl
+[submodule "meta-agl-cluster-demo"]
+	path = meta-agl-cluster-demo
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-agl-cluster-demo
+[submodule "meta-agl-demo"]
+	path = meta-agl-demo
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-agl-demo
+[submodule "meta-agl-devel"]
+	path = meta-agl-devel
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-agl-devel
+[submodule "meta-agl-extra"]
+	path = meta-agl-extra
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-agl-extra
+[submodule "meta-agl-telematics-demo"]
+	path = meta-agl-telematics-demo
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-agl-telematics-demo
+[submodule "external/poky"]
+	path = external/poky
+	url = https://github.com/MontaVista-OpenSourceTechnology/poky
+	branch = dunfell
+[submodule "external/meta-gplv2"]
+	path = external/meta-gplv2
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-gplv2
+	branch = dunfell
+[submodule "external/meta-openembedded"]
+	path = external/meta-openembedded
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-openembedded
+	branch = dunfell
+[submodule "external/meta-virtualization"]
+	path = external/meta-virtualization
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-virtualization
+	branch = master
+[submodule "external/meta-qt5"]
+	path = external/meta-qt5
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-qt5
+	branch = dunfell
+[submodule "external/meta-updater"]
+	path = external/meta-updater
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-updater
+	branch = dunfell
+[submodule "external/meta-updater-qemux86-64"]
+	path = external/meta-updater-qemux86-64
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-updater-qemux86-64
+	branch = dunfell
+[submodule "external/meta-updater-raspberrypi"]
+	path = external/meta-updater-raspberrypi
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-updater-raspberrypi
+	branch = dunfell
+[submodule "external/meta-security"]
+	path = external/meta-security
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-security
+	branch = dunfell
+[submodule "external/meta-spdxscanner"]
+	path = external/meta-spdxscanner
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-spdxscanner
+	branch = master
+[submodule "external/alexa-auto-sdk"]
+	path = external/alexa-auto-sdk
+	url = https://github.com/MontaVista-OpenSourceTechnology/alexa-auto-sdk
+	branch = 2.0
+[submodule "external/meta-clang"]
+	path = external/meta-clang
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-clang
+	branch = master
+[submodule "bsp/meta-renesas-rcar-gen3"]
+	path = bsp/meta-renesas-rcar-gen3
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-renesas-rcar-gen3
+[submodule "bsp/meta-rcar"]
+	path = bsp/meta-rcar
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-rcar
+	branch = zeus-Yocto-v3.21.0
+[submodule "bsp/meta-intel"]
+	path = bsp/meta-intel
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-intel
+	branch = master
+[submodule "bsp/meta-freescale"]
+	path = bsp/meta-freescale
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-freescale
+	branch = master
+[submodule "bsp/meta-freescale-3rdparty"]
+	path = bsp/meta-freescale-3rdparty
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-freescale-3rdparty
+	branch = master
+[submodule "bsp/meta-ti"]
+	path = bsp/meta-ti
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-ti
+	branch = master
+[submodule "bsp/meta-raspberrypi"]
+	path = bsp/meta-raspberrypi
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-raspberrypi
+	branch = dunfell
+[submodule "bsp/meta-qcom"]
+	path = bsp/meta-qcom
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-qcom
+	branch = master
+[submodule "bsp/meta-altera"]
+	path = bsp/meta-altera
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-altera
+	branch = master
+[submodule "bsp/meta-rtlwifi"]
+	path = bsp/meta-rtlwifi
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-rtlwifi
+	branch = master
